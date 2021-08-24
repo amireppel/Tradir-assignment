@@ -17,8 +17,8 @@ when placeholder is clicked, the user gets to choose a currency pair and amount.
 the widget should show 2 dropdowns: currency pair and amount.
  - amount can be 1M - 5M
  - create list of available currency pairs, when a pair is selected - remove it from the list.  
-after selecting currency pair and amount:  
-display the currencyPairName above the widget and the prices (bid & offer) at the top of the widget side by side.  
+after selecting currency pair and amount the widget will display:    
+the currencyPairName above the widget and the prices (bid & offer) at the top of the widget side by side.  
 
 ## step three
 inside the Main component create a state to count how many times the user has clicked the bid/ offer buttons.  
