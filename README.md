@@ -21,7 +21,8 @@ after selecting currency pair and amount:
 display the currencyPairName above the widget and the prices (bid & offer) at the top of the widget side by side.  
 
 ## step three
-inside the Main component create a state to count how many times the user has clicked the bid/ offer buttons. use the following stracture:  
+inside the Main component create a state to count how many times the user has clicked the bid/ offer buttons.  
+use the following stracture:  
 `{
 usdIlsCouner: {bid: 0, offer: 0},    
 eurUsdCounter: {bid: 0, offer: 0},  
