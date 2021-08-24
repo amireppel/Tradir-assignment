@@ -28,9 +28,9 @@ usdIlsCouner: {bid: 0, offer: 0},
 eurUsdCounter: {bid: 0, offer: 0},  
 usdJpyCounter: {bid: 0, offer: 0},  
 }`  
-from the Main component create a Child component.
-the Child component will only render 2 buttons (bid/ offer).
-update the state of Main component from the child component by clicking the bid/ offer buttons.
+from the Main component create a Child component.  
+the Child component will only render 2 buttons (bid/ offer).  
+update the state of Main component from the child component by clicking the bid/ offer buttons.  
 since nothing is ever going to change inside child component, make sure the child component is going to be rendered only once.
 
 
