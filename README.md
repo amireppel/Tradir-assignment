@@ -1,6 +1,7 @@
 # Welcome to __Tradair__ 👋👋👋
 
-Clone this repo to your local enviroment and run 'npm start' in __client folder and in server folder__.  
+Clone this repo to your local enviroment and install the dependencies client and server folders.   
+run 'npm start' in __client folder and in server folder__.  
 In your browser you should see `<h1>Tradair Coding Assignment</h1>`.  
 Open the console and you should get a stream representing prices of three pre-selected currency pairs.
 
