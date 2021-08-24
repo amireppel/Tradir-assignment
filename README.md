@@ -34,7 +34,7 @@ The Child component will only render the two buttons (Bid & Offer).
 Update the state of Main component from the child component when Bid/Offer buttons are clicked.  
 Since nothing is expected to change inside child component, make sure the child component is going to be rendered only once.
 
-## Step Four NodeJS
+## Step Four - NodeJS
 Inside server/routes create a new route "balance".  
 The new route should expose a new endpoint for the client to fetch from.  
  - the client should pass a parameter in the request's body, the parameter's value will be `"bank1"/ "bank2"`.  
