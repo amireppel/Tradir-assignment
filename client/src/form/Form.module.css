@@ -1,0 +1,16 @@
+.button {
+  border-radius: 25px;
+  background: #73AD21;
+  cursor: pointer; 
+  padding: 20px; 
+  width: 150px;
+  height: 75x;
+  padding-top: 20px;
+  margin: 40px auto;
+
+}
+
+.container{
+  align-items: center;
+  text-align: center;
+}

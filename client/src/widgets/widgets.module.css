@@ -1,0 +1,58 @@
+.container {
+  padding-top: 20px;
+  display: flex;
+}
+.dropable{
+  margin: auto;
+}
+.emptyBox{
+  border-color: black;
+  border-style: solid;
+  margin: auto;
+  height: 240px;
+  width: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fullBox{
+  border-color: black;
+  border-style: solid;
+  height: 240px;
+  width: 240px;
+  display: flex;
+  justify-content: center;
+}
+.button{
+  font-size: 36px;
+  margin: 0 auto;
+  cursor:pointer;
+}
+
+.content{
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.bidOffer{
+ margin-top:4px;
+ display: flex;
+ width: 200px;
+ justify-content: space-between;
+ align-items:center;
+ text-align: center ;
+}
+
+.smallButton{
+    border-radius: 10px;
+    background: #73AD21;
+    cursor: pointer; 
+    padding: 20px; 
+    margin-top: 20px; 
+    align-items: center;
+    display: block;
+    text-align: center;
+    width: 20%; 
+    height: 20%;
+}
